@@ -1,0 +1,1 @@
+warning-when-promise-throws
